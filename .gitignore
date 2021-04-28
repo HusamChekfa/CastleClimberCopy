@@ -1,0 +1,7 @@
+*.o
+*.depend
+*.cbp
+*.exe
+CastleClimber/main.cpp
+*.layout
+.DS_Store
